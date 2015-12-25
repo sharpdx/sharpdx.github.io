@@ -1,0 +1,28 @@
+# Site Settings
+author: Alexandre Mutel
+title: SharpDX
+description: SharpDX website
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sharpdx.org" # the base hostname & protocol for your site
+
+# Github repository
+github_user: SharpDX
+github_repo_url: https://github.com/SharpDX/sharpdx.github.io/
+
+# Jekyll settings
+permalink: /blog/:year/:month/:day/:title/
+# try to fix excerpt separator
+excerpt_separator: "" 
+# excerpt_link: Read More...
+paginate: 10
+paginate_path: "/blog/page:num/"
+markdown: redcarpet
+redcarpet:
+    extensions: ["tables"]
+highlighter: pygments
+
+sass:
+    style: :compressed
+
+gems:
+  - jekyll-sitemap
