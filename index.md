@@ -42,6 +42,12 @@ You can also download an all-in-one SDK archive:
 >  
 > **Windows Store Apps** `PCL .NET 4.6+` including the **Universal Windows Platform** (`UWP`) 
 
+## Documentation
+
+The documentation is now hosted on the [SharpDX Github WIKI page](https://github.com/sharpdx/SharpDX/wiki).
+
+> Note that this is under construction. For example, the Class Library Reference is not available yet.
+
 ## Licensing
 
 SharpDX is released under the [permissive MIT license](https://github.com/sharpdx/SharpDX/blob/master/License.txt).
