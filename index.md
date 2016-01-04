@@ -44,9 +44,7 @@ You can also download an all-in-one SDK archive:
 
 ## Documentation
 
-The documentation is now hosted on the [SharpDX Github WIKI page](https://github.com/sharpdx/SharpDX/wiki).
-
-> Note that this is under construction. For example, the Class Library Reference is not available yet.
+The documentation is available through the [wiki](/wiki).
 
 ## Licensing
 

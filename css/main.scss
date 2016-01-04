@@ -12,7 +12,6 @@ $link-hover-color: #400000;
 @import "_font-awesome.min";
 @import "syntax";
 
-
 /*
  * Globals
  */
@@ -26,6 +25,14 @@ body {
   margin-bottom: 0px;
   padding-top: 8px;
   padding-bottom: 8px;
+}
+
+table
+{
+	@extend .table;
+	table-layout: fixed;
+	width: 100%;
+	word-break: break-all;
 }
 
 h1, .h1,

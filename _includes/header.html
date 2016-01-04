@@ -12,5 +12,11 @@
 	  </button>
 	  <a class="xoofx-logo" href="/" alt="xoofx.com"></a>
 	</div>
+	<div id="navbar" class="navbar-collapse collapse">
+		<ul class="nav navbar-nav">
+			<li {% if current_nav[1] == 'index.html' %}class='active'{% endif %}><a href="/">Home</a></li>
+			<li {% if current_nav[1] == 'wiki' %}class='active'{% endif %}><a href="/wiki">Wiki</a></li>
+		</ul>
+	</div><!--/.nav-collapse -->
   </div>
 </nav>
