@@ -12,7 +12,7 @@ Latest stable and development binary versions are directly available on <a href=
 
 You can also download an all-in-one SDK archive:
 
-<a class="btn btn-lg btn-success" href="https://github.com/sharpdx/SharpDX/releases/download/v3.0.0/SharpDX-SDK-3.0.0.exe">Download 3.0.0 SDK</a>&nbsp;<a class="btn btn-lg btn-primary" href="/wiki">Wiki Documentation</a><br/><sub>(Last Update: *25 December 2015*, <a href="https://github.com/sharpdx/SharpDX/releases/tag/v3.0.0" target="_blank">release notes for 3.0.0</a>)</sub>
+<a class="btn btn-lg btn-success" href="https://github.com/sharpdx/SharpDX/releases/download/v3.0.2/SharpDX-SDK-3.0.2.exe">Download 3.0.2 SDK</a>&nbsp;<a class="btn btn-lg btn-primary" href="/wiki">Wiki Documentation</a><br/><sub>(Last Update: *11 March 2016*, <a href="https://github.com/sharpdx/SharpDX/releases/tag/v3.0.2" target="_blank">release notes for 3.0.2</a>)</sub>
 
 ## Supported APIs
 
