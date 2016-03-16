@@ -3,7 +3,6 @@ layout: page
 title: Home
 title_html: Welcome!
 ---
-
 <a href="https://github.com/sharpdx/SharpDX">
 <img src="/images/forkgithub.png" style="position: absolute; top: 0; right: 0; border: 0; padding: 0; margin: 0; box-shadow: none;"></a>
 SharpDX is an <a href="https://github.com/sharpdx/SharpDX" target="_blank">open-source</a> **managed .NET wrapper** of the <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ee663274%28v=vs.85%29.aspx" target="_blank">DirectX API</a>.
