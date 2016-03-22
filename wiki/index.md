@@ -17,10 +17,10 @@ Welcome to the SharpDX wiki!
 
 Table of Content:
 
-1. [Installation](installation.html)
-2. [Building](building.html)
-3. [Usage](usage.html)
+1. [Installation](installation)
+2. [Building](building)
+3. [Usage](usage)
 4. [Class Library API](class-library-api)
 
 
-<sub>(Last update: 25 December 2015)</sub>
+<sub>(Last update: 22 March 2016)</sub>
