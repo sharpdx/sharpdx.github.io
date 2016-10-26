@@ -11,7 +11,7 @@ Latest stable and development binary versions are directly available on <a href=
 
 You can also download an all-in-one SDK archive:
 
-<a class="btn btn-lg btn-success" href="https://ci.appveyor.com/api/buildjobs/2sid63v8xp15jkpl/artifacts/Build%2FSharpDX-SDK-3.1.0.exe">Download 3.1.0 SDK</a>&nbsp;<a class="btn btn-lg btn-primary" href="/wiki">Wiki Documentation</a><br/><sub>(Last Update: *11 March 2016*, <a href="https://github.com/sharpdx/SharpDX/releases/tag/v3.1.0" target="_blank">release notes for 3.1.0</a>)</sub>
+<a class="btn btn-lg btn-success" href="https://ci.appveyor.com/api/buildjobs/2sid63v8xp15jkpl/artifacts/Build%2FSharpDX-SDK-3.1.0.exe">Download 3.1.0 SDK</a>&nbsp;<a class="btn btn-lg btn-primary" href="/wiki">Wiki Documentation</a><br/><sub>(Last Update: *19 October 2016*, <a href="https://github.com/sharpdx/SharpDX/releases/tag/v3.1.0" target="_blank">release notes for 3.1.0</a>)</sub>
 
 ## Supported APIs
 
