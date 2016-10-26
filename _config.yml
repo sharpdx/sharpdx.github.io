@@ -16,7 +16,6 @@ excerpt_separator: ""
 # excerpt_link: Read More...
 paginate: 10
 paginate_path: "/blog/page:num/"
-highlighter: pygments
 
 sass:
     style: :compressed
