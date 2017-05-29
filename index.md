@@ -9,9 +9,7 @@ SharpDX is an <a href="https://github.com/sharpdx/SharpDX" target="_blank">open-
 
 Latest stable and development binary versions are directly available on <a href="https://www.nuget.org"><img src="https://raw.githubusercontent.com/NuGet/NuGetGallery/master/src/NuGetGallery/Content/Logos/nugetlogo.png" style="display: inline; width: 100px"></a>
 
-You can also download an all-in-one SDK archive:
-
-<a class="btn btn-lg btn-success" href="https://ci.appveyor.com/api/buildjobs/2sid63v8xp15jkpl/artifacts/Build%2FSharpDX-SDK-3.1.0.exe">Download 3.1.0 SDK</a>&nbsp;<a class="btn btn-lg btn-primary" href="/wiki">Wiki Documentation</a><br/><sub>(Last Update: *19 October 2016*, <a href="https://github.com/sharpdx/SharpDX/releases/tag/v3.1.0" target="_blank">release notes for 3.1.0</a>)</sub>
+<a class="btn btn-lg btn-success" href="https://www.nuget.org/packages?q=Tags%3A%22SharpDX%22">Download All SharpDX assemblies 4.0.0 on NuGet</a>&nbsp;<a class="btn btn-lg btn-primary" href="/wiki">Wiki Documentation</a><br/><sub>(Last Update: *29 May 2017*, <a href="https://github.com/sharpdx/SharpDX/releases/tag/v4.0.0" target="_blank">release notes for 4.0.0</a>)</sub>
 
 ## Supported APIs
 
@@ -37,9 +35,9 @@ You can also download an all-in-one SDK archive:
 
 ## Supported Platforms
 
-> **Windows Desktops** that supports `.NET 4.5+`
+> **Windows Desktops** that supports `.NET 4.0`, `.NET 4.5+`, `.NET Core` (`netstandard1.1` and `netcoreapp1.0`)
 >  
-> **Windows Store Apps** `PCL .NET 4.6+` including the **Universal Windows Platform** (`UWP`) 
+> **Windows Store Apps and Universal Windows Applications** `uap10.0`
 
 ## Documentation
 
