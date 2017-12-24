@@ -9,7 +9,7 @@ Starting with 3.0.0 version, SharpDX assemblies are compiled into two profiles:
 - `.NET 4.5+` for Desktop App.
 - `PCL .NET 4.6+` for Store Apps, CoreCLR or PCL libraries.
 
-Note that depending on the compilation profile, some DirectX APIs are not available (see section [Supported DirectX APIs per platform]() for more details)
+Note that depending on the compilation profile, some DirectX APIs are not available (see section [Supported DirectX APIs per platform](#anchor-wiki-sharpdx-perplatformdirectxapisupport) for more details)
 
 Binary assemblies are distributed in two forms:
 
@@ -23,7 +23,7 @@ Binary assemblies are distributed in two forms:
   - a `Bin\StoreApp` folder with assemblies for `PCL .NET 4.6+` 
   
 
-## Supported DirectX APIs per platform
+## <a name="anchor-wiki-sharpdx-perplatformdirectxapisupport"></a>Supported DirectX APIs per platform
 
 The following table described which DirectX API is accessible on each platform:
 
