@@ -35,6 +35,10 @@ table
 	word-break: break-all;
 }
 
+table p {
+  word-break: normal;
+}
+
 h1, .h1,
 h2, .h2,
 h3, .h3,
